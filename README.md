@@ -13,7 +13,7 @@ Special thanks to [Danny Ma](https://www.linkedin.com/in/datawithdanny) for putt
 ## Problem Statement
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
-The full case study can be found [here](https://8weeksqlchallenge.com/case-study-1/ "Danny's Diner") and my solution [here]("https://github.com/AshiruDikko/8-Week-SQL-Challenge/blob/master/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md").
+The full case study can be found [here](https://8weeksqlchallenge.com/case-study-1/ "Danny's Diner") and my solution [here](https://github.com/AshiruDikko/8-Week-SQL-Challenge/blob/master/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md).
 ***
 You can inspect the entity relationship diagram and example data below.
 ### Entity Relationship Diagram
