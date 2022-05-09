@@ -2,7 +2,7 @@
 
 ## Solution
 
-View the whole query [here]()
+View the whole query [here](https://github.com/AshiruDikko/8-Week-SQL-Challenge/blob/master/Case%20Study%20%231%20-%20Danny's%20Diner/Dannys_diner_solution.sql)
 
 ***
 
